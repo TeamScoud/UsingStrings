@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/backgroundimage"
     tools:context=".SecondActivity">
 
     <TextView
@@ -172,7 +173,7 @@
         android:layout_width="266dp"
         android:layout_height="61dp"
         android:text="Appoinment Details"
-        android:textColor="#86E4EF"
+        android:textColor="#F9FBFB"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
